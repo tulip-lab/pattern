@@ -99,6 +99,12 @@ The detailed assessment specification and marking rubrics can be found at:
 
 #### :spiral_calendar: Submission Due Dates
 
+- **SRM 2025** - Details to be announced...
+
+
+- **NJUST 2024** - The final assessment files submission due date is :spiral_calendar: `Saturday, 11/01/2025`, group of **ONE** member only (**individual** work) for task one.
+
+
 - **SEU 2024** - The final assessment files submission due date is :spiral_calendar: `Saturday, 23/11/2024`, group of **No More Than THREE** (1, 2 or 3) members  for both tasks.
 
 - **SEU 2023** - The final assessment files submission due date is :spiral_calendar: `Saturday, 25/11/2023`, group of **ONE** member only (**individual** work) for both tasks.
@@ -114,10 +120,10 @@ It is expected that you will submit each assessment component on time. You will 
 
 ## :books: References
 
-This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.org.au/members)**:
+This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.academy/members)**:
 
 - [Pattern Classification](https://www.academia.edu/33044855/Pattern_Classiflcation_2nd_ed_), 2nd Edition by Richard O. Duda, Peter E. Hart, and David G. Stork
-- [Research Publications](https://www.tulip.org.au/publication), various resources and readings
+- [Research Publications](https://www.tulip.academy/publication), various resources and readings
 
 ## :point_right: Contributors 
 
